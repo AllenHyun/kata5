@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98dfda75-e833-44fc-b265-61fcdc1755d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/control/LoadRandomTriviaCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/control/RandomTriviaMeAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/control/RandomTriviaProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/control/pojo/RandomTriviaMe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/control/pojo/RandomTriviaMeResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,11 +60,27 @@
       <option name="project" value="LOCAL" />
       <updated>1733512565943</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="We create the classes RandomTriviaMe and RandomTriviaMeResponse of the package pojo. We also create LoadRandomTriviaCommand, RandomTriviaMeAdapter, RandomTriviaProvider">
+      <created>1733512746882</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733512746882</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finally, the class Main is created">
+      <created>1733512842764</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733512842764</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="We create the class Trivia with the things we want to get of the trivia. We create 3 interfaces: Command, TriviaAdapter, TriviaProvider" />
-    <option name="LAST_COMMIT_MESSAGE" value="We create the class Trivia with the things we want to get of the trivia. We create 3 interfaces: Command, TriviaAdapter, TriviaProvider" />
+    <MESSAGE value="We create the classes RandomTriviaMe and RandomTriviaMeResponse of the package pojo. We also create LoadRandomTriviaCommand, RandomTriviaMeAdapter, RandomTriviaProvider" />
+    <MESSAGE value="Finally, the class Main is created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finally, the class Main is created" />
   </component>
 </project>

@@ -15,7 +15,9 @@ public class RandomTriviaMeAdapter implements TriviaAdapter<RandomTriviaMeRespon
         Trivia trivia = new Trivia(triviaMe.getQuestion(),
                 triviaMe.getCategory(),
                 triviaMe.getType(),
-                Trivia.Difficulty.valueOf(firstUpperCase(triviaMe.getDifficulty())));
+                Trivia.Difficulty.valueOf(firstUpperCase(triviaMe.getDifficulty())),
+                triviaMe.getCorrectAnswer(),
+                triviaMe.getIncorrectAnswers());
         return trivia;
     }
 
